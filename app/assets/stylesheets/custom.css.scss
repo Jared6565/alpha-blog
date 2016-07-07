@@ -21,9 +21,10 @@ $navbar-default-bg: black;
 }
 
 .jumbotron {
-  background-image: asset-url("go.jpeg");
+  background-image: asset-url("alphablog.jpeg");
   background-size: cover;
   height:550px;
+  width:100%
 }
 
 .jumbotron h1 {
@@ -36,6 +37,8 @@ $navbar-default-bg: black;
 .btn-xlarge{
   font-size: 1.7em;
   background-color: black;
+  top:70px;
+  position:relative;
 
 }
 footer {
